@@ -1,0 +1,29 @@
+html body {
+	background-color:lightblue;
+	height:100%;
+}
+html {
+	height:100%;
+}
+.tic {
+	background-color:blue;
+	width: 200px;
+	height: 200px;
+	justify-content: middle;
+	text-align: center;
+}
+.tic-tac {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height:100%;
+}s
+.tic-tac-toe {
+	height:100%;
+}
+
+.texting{
+	text-align: center;
+	font-size:50px;
+	padding:none;
+}
